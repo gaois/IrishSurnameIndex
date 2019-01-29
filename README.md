@@ -1,1 +1,3 @@
 # IrishSurnameIndex
+
+This is a collection of surnames that developed from the work of the Irish Folklore Commission and it is being made available here under the [Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/summary/) by [Fiontar & Scoil na Gaeilge](https://www.dcu.ie/fiontar_scoilnagaeilge/gaeilge/index.shtml), DCU and the [National Folklore Collection](http://www.ucd.ie/irishfolklore/en/), UCD. Please note that this is not an authoritative index of surnames, nor has it been edited. Feedback is welcome at <eolas@duchas.ie>. More information about the history of the collection is available [here](https://www.duchas.ie/en/info/nom).
