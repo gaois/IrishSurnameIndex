@@ -6160,7 +6160,6 @@
 		<surname lang="ga" text="Mac Leannáin" anchor="Leannáin"/>
 		<surname lang="en" text="Glennon" anchor="Glennon"/>
 		<surname lang="ga" text="Mac Fhlannáin" anchor="Fhlannáin" anchorUnmut="Flannáin"/>
-		<surname lang="en" text="Reilly" anchor="Reilly"/>
 	</cluster>
 	<cluster>
 		<surname lang="ga" text="Mac Gloinn" anchor="Gloinn"/>
@@ -6231,9 +6230,6 @@
 		<surname lang="ga" text="Mac Glionnáin" anchor="Glionnáin"/>
 		<surname lang="en" text="Glennon" anchor="Glennon"/>
 		<surname lang="en" text="Lennon" anchor="Lennon"/>
-		<surname lang="ga" text="Ó Raghallaigh" anchor="Raghallaigh"/>
-		<surname lang="en" text="O&apos;Reilly" anchor="Reilly"/>
-		<surname lang="en" text="Reilly" anchor="Reilly"/>
 	</cluster>
 	<cluster>
 		<surname lang="ga" text="Mac Liam" anchor="Liam"/>
@@ -10472,7 +10468,6 @@
 		<surname lang="en" text="Lennon" anchor="Lennon"/>
 		<surname lang="ga" text="Mac Leannáin" anchor="Leannáin"/>
 		<surname lang="ga" text="Ó Gleannáin" anchor="Gleannáin"/>
-		<surname lang="ga" text="Ó Raghallaigh" anchor="Raghallaigh"/>
 	</cluster>
 	<cluster>
 		<surname lang="ga" text="Ó Gloinn" anchor="Gloinn"/>
@@ -13265,10 +13260,6 @@
 		<surname lang="en" text="Reilly" anchor="Reilly"/>
 		<surname lang="en" text="O&apos;Reilly" anchor="Reilly"/>
 		<surname lang="ga" text="Ó Raghallaigh" anchor="Raghallaigh"/>
-		<surname lang="ga" text="Glionnáin" anchor="Glionnáin"/>
-		<surname lang="ga" text="Ó Glionnáin" anchor="Glionnáin"/>
-		<surname lang="ga" text="Ó Gleannáin" anchor="Gleannáin"/>
-		<surname lang="en" text="Glennon" anchor="Glennon"/>
 	</cluster>
 	<cluster>
 		<surname lang="en" text="Rice" anchor="Rice"/>
